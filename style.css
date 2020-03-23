@@ -1,0 +1,81 @@
+body{
+  font-family: 'Karla' ;
+padding-left: 100px ;
+padding-right: 100px;
+}
+
+h1{
+  color: yellow;
+  color: hsl(179, 62%, 43%);
+  font-size: 3rem;
+  padding-bottom: 20px;
+}
+.top{
+  margin: 50px 50px;
+  background-color: white;
+}
+.top p{
+  color: #bfbfbf;
+ line-height: 1;
+}
+
+.top h2{
+  color: yellow;
+  color:hsl(71, 73%, 54%);
+  padding-bottom: 10px;
+
+}
+
+.sign-up{
+  padding: 50px;
+  background-color:  hsl(179, 62%, 43%);
+  color: white;
+}
+
+.sign-up h2{
+  padding-bottom: 20px;
+}
+.price{
+  color: hsl(0,0%,100%, 0.4);
+}
+span{
+  font-size: 3rem;
+  color: white;
+}
+
+.last-line{
+  font-size: 20px;
+  color: hsl(0,0%,100%, 0.7);
+  padding-bottom: 20px;
+}
+
+button{
+  background-color:HSL(71, 73%, 54%);
+  color: white;
+  height: 60px;
+
+}
+
+.why-us{
+  background-color: hsl(179, 62%, 43%,0.8);
+  padding: 50px ;
+  color: white;
+}
+
+.why-us h2{
+  padding-bottom: 30px;
+}
+
+.why-us p{
+  color: hsl(0,0%,100%, 0.7);
+}
+
+
+/* footer */
+.attribution {
+  font-size: 11px; text-align: center;
+}
+
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
