@@ -1,5 +1,6 @@
 # Frontend Mentor - Single Price Grid Component
 
+#### View the finished challenge wtih this link : https://spencerwhc.github.io/frontend-mentor-challenge/
 ![Design preview for the Single Price Grid Component coding challenge](./design/desktop-preview.jpg)
 
 ## Welcome! 👋
